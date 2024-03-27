@@ -1,0 +1,29 @@
+{
+  "jokes": [
+    {
+      "id": 1,
+      "question": "Who's there?",
+      "answer": "Jarrett"
+    },
+    {
+      "id": 2,
+      "question": "Why can't a penguin flap their wings? ",
+      "answer": "They dont have feathers :)"
+    },
+    {
+      "id": 3,
+      "question": "Why are mushrooms great at parties? ",
+      "answer": "Because they are fungi"
+    },
+    {
+      "id": 4,
+      "question": "What do you call a lazy kangaroo?",
+      "answer": "Pouch potato!"
+    },
+    {
+      "id": 5,
+      "question": "Why did the bicycle fall over?",
+      "answer": "Because it was two tired!"
+    }
+  ]
+}
